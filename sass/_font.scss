@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,400,500,700&subset=cyrillic');
+
+@mixin medium {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+@mixin thin {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+
+
+

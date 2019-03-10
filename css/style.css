@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,400,500,700&subset=cyrillic");
+body {
+  background: #cccccd;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+img {
+  max-width: 100%;
+}
+
+header {
+  background: url("../img/bac-nd.jpg") no-repeat center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-style: normal;
+}
+
+.box {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.box h1 {
+  margin: 0;
+}
+
+.box .content {
+  padding: 150px 0 250px;
+}
+
+.box .content p {
+  color: #00002d;
+}
+/*# sourceMappingURL=style.css.map */
